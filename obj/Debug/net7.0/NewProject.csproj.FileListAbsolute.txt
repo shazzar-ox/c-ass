@@ -1,0 +1,15 @@
+/Users/mustapha/Projects/NewProject/NewProject/bin/Debug/net7.0/NewProject
+/Users/mustapha/Projects/NewProject/NewProject/bin/Debug/net7.0/NewProject.deps.json
+/Users/mustapha/Projects/NewProject/NewProject/bin/Debug/net7.0/NewProject.runtimeconfig.json
+/Users/mustapha/Projects/NewProject/NewProject/bin/Debug/net7.0/NewProject.dll
+/Users/mustapha/Projects/NewProject/NewProject/bin/Debug/net7.0/NewProject.pdb
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.csproj.AssemblyReference.cache
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.AssemblyInfoInputs.cache
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.AssemblyInfo.cs
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.csproj.CoreCompileInputs.cache
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.dll
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/refint/NewProject.dll
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.pdb
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/NewProject.genruntimeconfig.cache
+/Users/mustapha/Projects/NewProject/NewProject/obj/Debug/net7.0/ref/NewProject.dll
